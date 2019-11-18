@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-18T03:09:43.393Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="UQcrnrU5lH_9hkif7Aa5" version="12.2.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-18T14:15:36.853Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36" etag="jmOdbos9plnWLi0a8if1" version="12.2.6" type="github" pages="1">
   <diagram id="4olW-MAGGttCBygjSviU" name="Page-1">
     <mxGraphModel dx="886" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,12 +10,6 @@
             <mxPoint x="718" y="1740" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XHvywjFio7YU5usjQC61-13" value="" style="line;strokeWidth=1;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;rotation=180;" vertex="1" parent="1">
-          <mxGeometry x="513" y="1710" width="10" height="30" as="geometry"/>
-        </mxCell>
-        <mxCell id="XHvywjFio7YU5usjQC61-14" value="现在" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="468" y="1733" width="100" height="40" as="geometry"/>
-        </mxCell>
         <mxCell id="XHvywjFio7YU5usjQC61-15" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=1;right=1;left=1;top=0;fillColor=none;routingCenterX=-0.5;strokeColor=#FF0080;strokeWidth=1;fontSize=16;rotation=180;" vertex="1" parent="1">
           <mxGeometry x="278" y="1700" width="120" height="40" as="geometry"/>
         </mxCell>
@@ -25,80 +19,20 @@
             <mxPoint x="718" y="1860" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XHvywjFio7YU5usjQC61-18" value="" style="line;strokeWidth=1;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;rotation=180;" vertex="1" parent="1">
-          <mxGeometry x="513" y="1830" width="10" height="30" as="geometry"/>
-        </mxCell>
-        <mxCell id="XHvywjFio7YU5usjQC61-19" value="现在" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="468" y="1853" width="100" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="XHvywjFio7YU5usjQC61-21" value="爱" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="351" y="1773" width="100" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="XHvywjFio7YU5usjQC61-25" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;strokeColor=#FF0080;fontSize=16;fontColor=#000000;rounded=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="158" y="1860" as="sourcePoint"/>
-            <mxPoint x="458" y="1810" as="targetPoint"/>
-          </mxGeometry>
+        <mxCell id="XHvywjFio7YU5usjQC61-21" value="爱上了" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="375" y="1770" width="46" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="XHvywjFio7YU5usjQC61-26" value="不爱" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="173" y="1819" width="100" height="41" as="geometry"/>
+          <mxGeometry x="189.5" y="1819" width="100" height="41" as="geometry"/>
         </mxCell>
         <mxCell id="XHvywjFio7YU5usjQC61-27" value="没吃（饿）" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="178" y="1700" width="100" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="XHvywjFio7YU5usjQC61-28" value="没吃（饱）" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="XHvywjFio7YU5usjQC61-28" value="吃了" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="403" y="1700" width="100" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="XHvywjFio7YU5usjQC61-29" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="158" y="1990" as="sourcePoint"/>
-            <mxPoint x="718" y="1990" as="targetPoint"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XHvywjFio7YU5usjQC61-30" value="" style="line;strokeWidth=1;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;rotation=180;" vertex="1" parent="1">
-          <mxGeometry x="513" y="1960" width="10" height="30" as="geometry"/>
-        </mxCell>
-        <mxCell id="XHvywjFio7YU5usjQC61-31" value="现在" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="468" y="1983" width="100" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="XHvywjFio7YU5usjQC61-32" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;strokeColor=#FF0080;fontSize=16;fontColor=#000000;rounded=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="158" y="1990" as="sourcePoint"/>
-            <mxPoint x="458" y="1940" as="targetPoint"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XHvywjFio7YU5usjQC61-33" value="死" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="173" y="1949" width="100" height="41" as="geometry"/>
-        </mxCell>
-        <mxCell id="XHvywjFio7YU5usjQC61-34" value="活" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="318" y="1893" width="100" height="41" as="geometry"/>
-        </mxCell>
-        <mxCell id="XHvywjFio7YU5usjQC61-35" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="158" y="2147" as="sourcePoint"/>
-            <mxPoint x="718" y="2147" as="targetPoint"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XHvywjFio7YU5usjQC61-36" value="" style="line;strokeWidth=1;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;rotation=180;" vertex="1" parent="1">
-          <mxGeometry x="513" y="2117" width="10" height="30" as="geometry"/>
-        </mxCell>
-        <mxCell id="XHvywjFio7YU5usjQC61-37" value="现在" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="468" y="2140" width="100" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="XHvywjFio7YU5usjQC61-38" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;strokeColor=#FF0080;fontSize=16;fontColor=#000000;rounded=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="158" y="2147" as="sourcePoint"/>
-            <mxPoint x="458" y="2097" as="targetPoint"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="XHvywjFio7YU5usjQC61-39" value="绿" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="173" y="2106" width="100" height="41" as="geometry"/>
-        </mxCell>
-        <mxCell id="XHvywjFio7YU5usjQC61-40" value="黄" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="318" y="2050" width="100" height="41" as="geometry"/>
-        </mxCell>
         <mxCell id="XHvywjFio7YU5usjQC61-41" value="爱上" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="258" y="1773" width="100" height="40" as="geometry"/>
+          <mxGeometry x="278" y="1773" width="52" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="XHvywjFio7YU5usjQC61-42" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -204,7 +138,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XHvywjFio7YU5usjQC61-74" value="时间" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="740" y="780" width="50" height="20" as="geometry"/>
+          <mxGeometry x="733.5" y="1204" width="50" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="XHvywjFio7YU5usjQC61-75" value="" style="line;strokeWidth=1;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;fontSize=16;fontColor=#000000;strokeColor=#FF0080;" vertex="1" parent="1">
           <mxGeometry x="313" y="2711" width="10" height="40" as="geometry"/>
@@ -290,52 +224,52 @@
           <mxGeometry x="150" y="584" width="220" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="XHvywjFio7YU5usjQC61-105" value="所以这里“了”的出现起了什么作用？&lt;br&gt;“了”终止了睡觉这个正在持续的状态。&lt;br&gt;如果把“了”去掉，直接说：“别睡”。那么此时歧义就出现了：“别睡（着)了”？&lt;br&gt;我承认在某些场景中，人们也可能说“别睡了”来表达“别睡着了”这个意思，但是“别睡+了”&lt;br&gt;这个形式在当前类似的语境中能够消除歧义并传达出“终止一个正在持续的状态的含义”。" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="127" y="630" width="630" height="100" as="geometry"/>
+          <mxGeometry x="78.5" y="640" width="630" height="100" as="geometry"/>
         </mxCell>
         <mxCell id="XHvywjFio7YU5usjQC61-106" value="时间" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="680" y="540" width="50" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="XHvywjFio7YU5usjQC61-107" value="起床了" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="290" y="740" width="60" height="20" as="geometry"/>
+          <mxGeometry x="245" y="1114" width="60" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="XHvywjFio7YU5usjQC61-108" value="状态：醒" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="300" y="530" width="80" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="XHvywjFio7YU5usjQC61-109" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontSize=16;fontColor=#000000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="800" as="sourcePoint"/>
-            <mxPoint x="720" y="800" as="targetPoint"/>
+            <mxPoint x="75" y="1174" as="sourcePoint"/>
+            <mxPoint x="675" y="1174" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="XHvywjFio7YU5usjQC61-110" value="" style="line;strokeWidth=1;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;rotation=180;" vertex="1" parent="1">
-          <mxGeometry x="313" y="770" width="10" height="30" as="geometry"/>
+          <mxGeometry x="268" y="1144" width="10" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="XHvywjFio7YU5usjQC61-111" value="了1：" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="20" y="480" width="60" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="XHvywjFio7YU5usjQC61-113" value="了2：" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="20" y="690" width="60" height="20" as="geometry"/>
+          <mxGeometry x="15" y="1084" width="60" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="XHvywjFio7YU5usjQC61-114" value="起床（了）&lt;br&gt;get up" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="202" y="840" width="100" height="40" as="geometry"/>
+          <mxGeometry x="157" y="1214" width="100" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="XHvywjFio7YU5usjQC61-115" value="在这个命令语气的句子中“了”是可以省略的，并且不会影响原句的意思，了的唯一作用&lt;br&gt;就是&lt;font color=&quot;#ff3333&quot;&gt;缓和&lt;/font&gt;了语气，因为让句子变的啰嗦了，使句子变长了。但是“了”并不是绝对的可以&lt;br&gt;缓和句子语气，如果在当时的场景中说话的人是快速且高声的说：“起床了！”。此时的&lt;br&gt;了并不能缓和语气。" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="113" y="920" width="620" height="80" as="geometry"/>
+          <mxGeometry x="78.5" y="1300" width="620" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="XHvywjFio7YU5usjQC61-116" value="时间" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="733" y="1148" width="50" height="20" as="geometry"/>
+          <mxGeometry x="730" y="1523" width="50" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="XHvywjFio7YU5usjQC61-117" value="怎么了？" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="283" y="1108" width="80" height="20" as="geometry"/>
+          <mxGeometry x="248.5" y="1488" width="80" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="XHvywjFio7YU5usjQC61-118" value="" style="endArrow=classic;html=1;strokeColor=#000000;fontSize=16;fontColor=#000000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="113" y="1168" as="sourcePoint"/>
-            <mxPoint x="713" y="1168" as="targetPoint"/>
+            <mxPoint x="78.5" y="1548" as="sourcePoint"/>
+            <mxPoint x="678.5" y="1548" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
         <mxCell id="XHvywjFio7YU5usjQC61-119" value="" style="line;strokeWidth=1;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;rotation=180;" vertex="1" parent="1">
-          <mxGeometry x="306" y="1138" width="10" height="30" as="geometry"/>
+          <mxGeometry x="271.5" y="1518" width="10" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="XHvywjFio7YU5usjQC61-120" value="A: 你看窗户外边，枫叶太美&lt;span style=&quot;color: rgb(204 , 0 , 0)&quot;&gt;了&lt;/span&gt;。&lt;br&gt;B: 是的，很美！秋天到&lt;span style=&quot;color: rgb(204 , 0 , 0)&quot;&gt;了&lt;/span&gt;？树叶都开始黄&lt;span style=&quot;color: rgb(204 , 0 , 0)&quot;&gt;了&lt;/span&gt;？。&lt;br&gt;A: 你是个傻子吗？秋天早就到&lt;span style=&quot;color: rgb(204 , 0 , 0)&quot;&gt;了&lt;/span&gt;，现在已经深秋&lt;span style=&quot;color: rgb(204 , 0 , 0)&quot;&gt;了&lt;/span&gt;，&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;树叶都黄&lt;span style=&quot;color: rgb(204 , 0 , 0)&quot;&gt;了&lt;/span&gt;一个多月&lt;span style=&quot;color: rgb(204 , 0 , 0)&quot;&gt;了&lt;/span&gt;。" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="121" y="2560" width="390" height="80" as="geometry"/>
@@ -347,7 +281,180 @@
           <mxGeometry x="121" y="3100" width="600" height="100" as="geometry"/>
         </mxCell>
         <mxCell id="XHvywjFio7YU5usjQC61-123" value="缓和了：&lt;br&gt;" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="143" y="1043" width="80" height="20" as="geometry"/>
+          <mxGeometry x="108.5" y="1423" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="XHvywjFio7YU5usjQC61-125" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="910" as="sourcePoint"/>
+            <mxPoint x="643" y="910" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="393" y="910"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XHvywjFio7YU5usjQC61-126" value="睡了吗？睡了/没睡。" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="266" y="813" width="160" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="XHvywjFio7YU5usjQC61-127" value="" style="endArrow=classic;html=1;strokeColor=#00994D;fontSize=16;fontColor=#00CC66;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="870" as="sourcePoint"/>
+            <mxPoint x="450" y="909" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="320" y="870"/>
+              <mxPoint x="320" y="909"/>
+              <mxPoint x="389" y="909"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XHvywjFio7YU5usjQC61-128" value="没睡" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="223.5" y="840" width="50" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="XHvywjFio7YU5usjQC61-129" value="睡了" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="371" y="889" width="50" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="XHvywjFio7YU5usjQC61-130" value="在吃" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1670" width="50" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="XHvywjFio7YU5usjQC61-131" value="在汉语中，我们经常会问：&lt;br&gt;你现在吃了吗？&lt;br&gt;他现在死了吗？&lt;br&gt;他已经死了吗？&lt;br&gt;&lt;br&gt;现在，显然是当前时间，并且是持续的，因为时间在流逝，现在一直在持续。&lt;br&gt;如果了是指的过去，那么跟“现在”这个词就是矛盾的，所以“了”的语义不是指“过去发生的事”，&lt;br&gt;而是“指某事物在某时刻的状态”。" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="80" y="920" width="670" height="150" as="geometry"/>
+        </mxCell>
+        <mxCell id="XHvywjFio7YU5usjQC61-132" value="" style="endArrow=classic;html=1;strokeColor=#FF0080;fontSize=16;fontColor=#000000;rounded=0;exitX=-0.045;exitY=0.976;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="XHvywjFio7YU5usjQC61-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="214.5" y="1860" as="sourcePoint"/>
+            <mxPoint x="600" y="1860" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="320" y="1860"/>
+              <mxPoint x="320" y="1810"/>
+              <mxPoint x="480" y="1810"/>
+              <mxPoint x="480" y="1860"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XHvywjFio7YU5usjQC61-135" value="不爱了" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="522" y="1829.5" width="60" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="XHvywjFio7YU5usjQC61-139" style="edgeStyle=elbowEdgeStyle;rounded=0;comic=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startSize=14;endSize=18;strokeColor=#FF0080;fontSize=16;fontColor=#000000;" edge="1" parent="1" source="XHvywjFio7YU5usjQC61-21" target="XHvywjFio7YU5usjQC61-21">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XHvywjFio7YU5usjQC61-140" value="不爱" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="461" y="1780" width="50" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="XHvywjFio7YU5usjQC61-142" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="157" y="2010" as="sourcePoint"/>
+            <mxPoint x="717" y="2010" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XHvywjFio7YU5usjQC61-143" value="活了" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="374" y="1920" width="46" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="XHvywjFio7YU5usjQC61-144" value="死的" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="188.5" y="1969" width="100" height="41" as="geometry"/>
+        </mxCell>
+        <mxCell id="XHvywjFio7YU5usjQC61-145" value="复活" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="277" y="1923" width="52" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="XHvywjFio7YU5usjQC61-146" value="" style="endArrow=classic;html=1;strokeColor=#FF0080;fontSize=16;fontColor=#000000;rounded=0;exitX=-0.045;exitY=0.976;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="XHvywjFio7YU5usjQC61-144">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="213.5" y="2010" as="sourcePoint"/>
+            <mxPoint x="599" y="2010" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="319" y="2010"/>
+              <mxPoint x="319" y="1960"/>
+              <mxPoint x="479" y="1960"/>
+              <mxPoint x="479" y="2010"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XHvywjFio7YU5usjQC61-147" value="死了" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="521" y="1979.5" width="50" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="XHvywjFio7YU5usjQC61-148" style="edgeStyle=elbowEdgeStyle;rounded=0;comic=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startSize=14;endSize=18;strokeColor=#FF0080;fontSize=16;fontColor=#000000;" edge="1" parent="1" source="XHvywjFio7YU5usjQC61-143" target="XHvywjFio7YU5usjQC61-143">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XHvywjFio7YU5usjQC61-149" value="弄死" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1930" width="50" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="XHvywjFio7YU5usjQC61-150" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="127" y="1650" as="sourcePoint"/>
+            <mxPoint x="687" y="1650" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XHvywjFio7YU5usjQC61-151" value="吃了一会" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="344" y="1560" width="46" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="XHvywjFio7YU5usjQC61-152" value="没吃（饿）" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="158.5" y="1609" width="100" height="41" as="geometry"/>
+        </mxCell>
+        <mxCell id="XHvywjFio7YU5usjQC61-153" value="去吃" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="247" y="1563" width="52" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="XHvywjFio7YU5usjQC61-154" value="" style="endArrow=classic;html=1;strokeColor=#FF0080;fontSize=16;fontColor=#000000;rounded=0;exitX=-0.045;exitY=0.976;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="XHvywjFio7YU5usjQC61-152">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="183.5" y="1650" as="sourcePoint"/>
+            <mxPoint x="569" y="1650" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="289" y="1650"/>
+              <mxPoint x="289" y="1600"/>
+              <mxPoint x="449" y="1600"/>
+              <mxPoint x="449" y="1650"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XHvywjFio7YU5usjQC61-155" value="不吃了" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="491" y="1619.5" width="60" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="XHvywjFio7YU5usjQC61-156" style="edgeStyle=elbowEdgeStyle;rounded=0;comic=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startSize=14;endSize=18;strokeColor=#FF0080;fontSize=16;fontColor=#000000;" edge="1" parent="1" source="XHvywjFio7YU5usjQC61-151" target="XHvywjFio7YU5usjQC61-151">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XHvywjFio7YU5usjQC61-157" value="不吃" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1570" width="50" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="XHvywjFio7YU5usjQC61-158" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="157" y="2170" as="sourcePoint"/>
+            <mxPoint x="717" y="2170" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XHvywjFio7YU5usjQC61-159" value="想了" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="374" y="2080" width="46" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="XHvywjFio7YU5usjQC61-160" value="没想" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="188.5" y="2129" width="100" height="41" as="geometry"/>
+        </mxCell>
+        <mxCell id="XHvywjFio7YU5usjQC61-161" value="想" style="text;strokeColor=none;fillColor=none;html=1;fontSize=16;fontStyle=0;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="277" y="2083" width="52" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="XHvywjFio7YU5usjQC61-162" value="" style="endArrow=classic;html=1;strokeColor=#FF0080;fontSize=16;fontColor=#000000;rounded=0;exitX=-0.045;exitY=0.976;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="XHvywjFio7YU5usjQC61-160">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="213.5" y="2170" as="sourcePoint"/>
+            <mxPoint x="599" y="2170" as="targetPoint"/>
+            <Array as="points">
+              <mxPoint x="319" y="2170"/>
+              <mxPoint x="319" y="2120"/>
+              <mxPoint x="479" y="2120"/>
+              <mxPoint x="479" y="2170"/>
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XHvywjFio7YU5usjQC61-163" value="不想了" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="521" y="2139.5" width="60" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="XHvywjFio7YU5usjQC61-164" style="edgeStyle=elbowEdgeStyle;rounded=0;comic=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startSize=14;endSize=18;strokeColor=#FF0080;fontSize=16;fontColor=#000000;" edge="1" parent="1" source="XHvywjFio7YU5usjQC61-159" target="XHvywjFio7YU5usjQC61-159">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="XHvywjFio7YU5usjQC61-165" value="不想" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="460" y="2090" width="50" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="XHvywjFio7YU5usjQC61-166" value="时间" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="696" y="1629.5" width="50" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="XHvywjFio7YU5usjQC61-167" value="吃被中止（没吃完）：" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="15" y="1593" width="180" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="XHvywjFio7YU5usjQC61-170" value="正常吃完：" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=16;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="15" y="1710" width="100" height="20" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
